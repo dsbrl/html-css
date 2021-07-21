@@ -1,0 +1,64 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.left_block{
+    float: left;
+    display: block;
+    width: 660px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    border-radius: 25px;
+    text-align: center;
+    
+}
+.right_block{
+    float: right;
+    display: block;
+    width: 660px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px;
+    background-color: yellow;
+}
+.block1{
+    display: flex;
+   flex-direction: row;
+}
+.block2{
+    background-color: yellowgreen;
+    height: 300px;
+    width: 1280px;
+    color: rgb(83, 17, 17);
+    text-align: center;
+    padding: 20px;
+}
+.cat{
+    float: right;
+    margin: 0px 30px 5px 0px;
+}
+.mem{
+    border-radius: 25px;
+}
+.block3{
+    background-color: plum;
+    width: 1070px;
+    height: 130px;
+    text-align: center;
+}
+.block4{
+    background-color: salmon;
+    width: 1070px;
+    color: white;
+}
+.block5{
+    background-color: lightskyblue;
+    width: 1070px;
+    height: 300px;
+}
+.pic{
+    float: left;
+  margin: 0 1em 1em 0;
+}
