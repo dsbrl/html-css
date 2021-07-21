@@ -1,0 +1,7 @@
+.icon{
+   display: flex;
+   justify-content: space-between;
+}
+.icon_left{
+justify-content: left;
+}
